@@ -1,0 +1,26 @@
+body{
+    background-color: cornflowerblue;
+}
+
+hr{
+    border-color: white;
+    border-style: inset;
+    border-width: 3px;
+    width: 100%;
+    
+}
+
+h1, h2, h3{
+    color: black;
+}
+
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    background-color: white;
+}
+
+th{
+    background: lightgray;
+}
